@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<display version="2.0.0">
+  <name>Main</name>
+  <width>1010</width>
+  <height>570</height>
+  <grid_color>
+    <color red="127" green="127" blue="127">
+    </color>
+  </grid_color>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update</name>
+    <pv_name>ca://NUTGHN:CWCIRC:C_WTRTANK</pv_name>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>2</precision>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_1</name>
+    <pv_name>ca://NUTGHN:CWCIRC:I_CICPUMP</pv_name>
+    <x>317</x>
+    <y>92</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_2</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_MAINLP1</pv_name>
+    <x>332</x>
+    <y>3</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="0" blue="0">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_3</name>
+    <pv_name>ca://NUTGHN:CWCIRC:T_1STCIRC</pv_name>
+    <x>334</x>
+    <y>41</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="0" blue="0">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_4</name>
+    <pv_name>ca://NUTGHN:CWCIRC:T_2ndCIRC</pv_name>
+    <x>605</x>
+    <y>4</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_5</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_MAINLP2</pv_name>
+    <x>146</x>
+    <y>167</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_6</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_MAINLP3</pv_name>
+    <x>558</x>
+    <y>126</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_7</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_FRMBRU6</pv_name>
+    <x>881</x>
+    <y>204</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_8</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_FRMBRU5</pv_name>
+    <x>812</x>
+    <y>229</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_9</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_BRU4</pv_name>
+    <x>788</x>
+    <y>267</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_10</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_BRU3</pv_name>
+    <x>650</x>
+    <y>226</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_11</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_BRU2</pv_name>
+    <x>401</x>
+    <y>212</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_12</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_FRMBRU4</pv_name>
+    <x>680</x>
+    <y>311</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_13</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_FRMBRU2</pv_name>
+    <x>497</x>
+    <y>287</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_14</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_BRU1</pv_name>
+    <x>301</x>
+    <y>186</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_15</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_FRMBRU1</pv_name>
+    <x>295</x>
+    <y>149</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_16</name>
+    <pv_name>ca://NUTGHN:CWCIRC:T_BAFFLE</pv_name>
+    <x>50</x>
+    <y>270</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="127" blue="216">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_17</name>
+    <pv_name>NUTGHN:CWCIRC:T_HRN1FRM</pv_name>
+    <x>176</x>
+    <y>401</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="127" blue="216">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_18</name>
+    <pv_name>ca://NUTGHN:CWCIRC:T_TGTFRM</pv_name>
+    <x>155</x>
+    <y>467</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="127" blue="216">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_19</name>
+    <pv_name>ca://NUTGHN:CWCIRC:T_HRN2FRM</pv_name>
+    <x>503</x>
+    <y>341</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="127" blue="216">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_20</name>
+    <pv_name>ca://NUTGHN:CWCIRC:T_HRN3FRM</pv_name>
+    <x>719</x>
+    <y>353</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="127" blue="216">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_21</name>
+    <pv_name>ca://NUTGHN:CWCIRC:T_TGT1HEX</pv_name>
+    <x>56</x>
+    <y>401</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="127" blue="216">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_22</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_SSPUMP1</pv_name>
+    <x>275</x>
+    <y>485</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="128" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_23</name>
+    <pv_name>ca://NUTGHN:CWCIRC:T_SSPUMP1</pv_name>
+    <x>275</x>
+    <y>515</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="128" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_24</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_SSPUMP2</pv_name>
+    <x>524</x>
+    <y>533</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="128" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_25</name>
+    <pv_name>ca://NUTGHN:CWCIRC:T_SSPUMP2</pv_name>
+    <x>524</x>
+    <y>563</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="128" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_26</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_SSPUMP3</pv_name>
+    <x>745</x>
+    <y>583</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="128" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_27</name>
+    <pv_name>ca://NUTGHN:CWCIRC:T_SSPUMP3</pv_name>
+    <x>746</x>
+    <y>611</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="128" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_28</name>
+    <pv_name>ca://NUTGHN:CWCIRC:F_FRMBRU3</pv_name>
+    <x>498</x>
+    <y>250</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_29</name>
+    <pv_name>ca://NUTGHN:CWSYSMON:LH_CW_TNK:cm</pv_name>
+    <x>115</x>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>2</precision>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+</display>

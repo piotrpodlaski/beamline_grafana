@@ -1,0 +1,209 @@
+{
+  "type": "aceiot-svg-panel",
+  "datasource": {
+    "type": "sasaki77-archiverappliance-datasource",
+    "uid": "6ATSoo3Nk"
+  },
+  "fieldConfig": {
+    "defaults": {
+      "mappings": [],
+      "thresholds": {
+        "mode": "absolute",
+        "steps": [
+          {
+            "color": "green",
+            "value": null
+          },
+          {
+            "color": "red",
+            "value": 80
+          }
+        ]
+      },
+      "color": {
+        "mode": "thresholds"
+      }
+    },
+    "overrides": []
+  },
+  "options": {
+    "svgSource": "",
+    "eventAutoComplete": true,
+    "eventSource": "",
+    "initAutoComplete": true,
+    "initSource": "",
+    "addAllIDs": false,
+    "captureMappings": false,
+    "svgMappings": [
+      {
+        "mappedName": "2",
+        "svgId": "text-2"
+      },
+      {
+        "mappedName": "3",
+        "svgId": "text-3"
+      },
+      {
+        "mappedName": "4",
+        "svgId": "text-4"
+      },
+      {
+        "mappedName": "5",
+        "svgId": "text-5"
+      },
+      {
+        "mappedName": "1",
+        "svgId": "text-1"
+      },
+      {
+        "mappedName": "6",
+        "svgId": "text-6"
+      },
+      {
+        "mappedName": "7",
+        "svgId": "text-7"
+      },
+      {
+        "mappedName": "8",
+        "svgId": "text-8"
+      },
+      {
+        "mappedName": "9",
+        "svgId": "text-9"
+      },
+      {
+        "mappedName": "10",
+        "svgId": "text-10"
+      },
+      {
+        "mappedName": "11",
+        "svgId": "text-11"
+      },
+      {
+        "mappedName": "12",
+        "svgId": "text-12"
+      },
+      {
+        "mappedName": "13",
+        "svgId": "text-13"
+      },
+      {
+        "mappedName": "14",
+        "svgId": "text-14"
+      },
+      {
+        "mappedName": "compressor",
+        "svgId": "compressor"
+      },
+      {
+        "mappedName": "15",
+        "svgId": "text-15"
+      },
+      {
+        "mappedName": "16",
+        "svgId": "text-16"
+      },
+      {
+        "mappedName": "17",
+        "svgId": "text-17"
+      },
+      {
+        "mappedName": "18",
+        "svgId": "text-18"
+      },
+      {
+        "mappedName": "19",
+        "svgId": "text-19"
+      },
+      {
+        "mappedName": "20",
+        "svgId": "text-20"
+      },
+      {
+        "mappedName": "21",
+        "svgId": "text-21"
+      },
+      {
+        "mappedName": "22",
+        "svgId": "text-22"
+      },
+      {
+        "mappedName": "23",
+        "svgId": "text-23"
+      },
+      {
+        "mappedName": "24",
+        "svgId": "text-24"
+      },
+      {
+        "mappedName": "25",
+        "svgId": "text-25"
+      },
+      {
+        "mappedName": "26",
+        "svgId": "text-26"
+      },
+      {
+        "mappedName": "27",
+        "svgId": "text-27"
+      },
+      {
+        "mappedName": "28",
+        "svgId": "text-28"
+      },
+      {
+        "mappedName": "29",
+        "svgId": "text-29"
+      },
+      {
+        "mappedName": "30",
+        "svgId": "text-30"
+      },
+      {
+        "mappedName": "31",
+        "svgId": "text-31"
+      },
+      {
+        "mappedName": "32",
+        "svgId": "text-32"
+      },
+      {
+        "mappedName": "33",
+        "svgId": "text-33"
+      },
+      {
+        "mappedName": "34",
+        "svgId": "text-34"
+      },
+      {
+        "mappedName": "35",
+        "svgId": "text-35"
+      },
+      {
+        "mappedName": "36",
+        "svgId": "text-36"
+      },
+      {
+        "mappedName": "37",
+        "svgId": "text-37"
+      },
+      {
+        "mappedName": "38",
+        "svgId": "text-38"
+      },
+      {
+        "mappedName": "39",
+        "svgId": "text-39"
+      },
+      {
+        "mappedName": "40",
+        "svgId": "text-40"
+      }
+    ],
+    "svgAutoComplete": true
+  },
+  "targets": [
+   
+  ],
+  "transparent": true
+}

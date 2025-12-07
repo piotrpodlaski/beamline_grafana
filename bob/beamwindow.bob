@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<display version="2.0.0">
+  <name>Display</name>
+  <width>1000</width>
+  <height>500</height>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_29</name>
+    <pv_name>ca://NUTSBW:HECIRC:MOTOR_CURR:A</pv_name>
+    <x>188</x>
+    <y>45</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_30</name>
+    <pv_name>NUTSBW:HECIRC:P_HE_RET</pv_name>
+    <x>298</x>
+    <y>419</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="165" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>3</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_31</name>
+    <pv_name>ca://NUTSBW:HECIRC:P_HE_CMP</pv_name>
+    <x>189</x>
+    <y>64</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="0" blue="0">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>3</precision>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_32</name>
+    <pv_name>ca://NUTSBW:HECIRC:T_HE_SUC</pv_name>
+    <x>886</x>
+    <y>18</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_33</name>
+    <pv_name>ca://NUTSBW:HECIRC:P_W2_RET</pv_name>
+    <x>119</x>
+    <y>251</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>3</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_34</name>
+    <pv_name>NUTSBW:HECIRC:T_W1_SUP</pv_name>
+    <x>301</x>
+    <y>157</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_35</name>
+    <pv_name>ca://NUTSBW:HECIRC:P_W1_SUP</pv_name>
+    <x>301</x>
+    <y>132</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>3</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_36</name>
+    <pv_name>ca://NUTSBW:HECIRC:P_HE_SUP</pv_name>
+    <x>750</x>
+    <y>18</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>3</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_37</name>
+    <pv_name>ca://NUTSBW:HECIRC:T_HE_SUC</pv_name>
+    <y>339</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="128" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_38</name>
+    <pv_name>ca://NUTSBW:HECIRC:T_W2_SUP</pv_name>
+    <x>119</x>
+    <y>376</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_39</name>
+    <pv_name>ca://NUTSBW:HECIRC:P_W2_SUP</pv_name>
+    <x>119</x>
+    <y>350</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>3</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_40</name>
+    <pv_name>ca://NUTSBW:HECIRC:T_W1_RET</pv_name>
+    <x>294</x>
+    <y>45</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_41</name>
+    <pv_name>NUTSBW:HECIRC:T_HE_CMP</pv_name>
+    <x>299</x>
+    <y>439</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="255" green="165" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_42</name>
+    <pv_name>ca://NUTSBW:HECIRC:F_HE</pv_name>
+    <x>788</x>
+    <y>51</y>
+    <width>106</width>
+    <height>28</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="15.841584158415841">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_43</name>
+    <pv_name>ca://NUTSBW:HECIRC:MV_BYP</pv_name>
+    <x>232</x>
+    <y>201</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_44</name>
+    <pv_name>ca://NUTSBW:HECIRC:P_W1_RET</pv_name>
+    <x>294</x>
+    <y>23</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>3</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_45</name>
+    <pv_name>ca://NUTSBW:HECIRC:T_W2_RET</pv_name>
+    <x>117</x>
+    <y>270</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_46</name>
+    <pv_name>ca://NUTSBW:HECIRC:P_HE_INP</pv_name>
+    <x>338</x>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>3</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_47</name>
+    <pv_name>ca://NUTSBW:HECIRC:P_HE_PRG</pv_name>
+    <x>587</x>
+    <y>2</y>
+    <width>88</width>
+    <height>24</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="12.871287128712872">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>3</precision>
+    <vertical_alignment>2</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_48</name>
+    <pv_name>ca://NUTSBW:HECIRC:MOTOR_CURR:A</pv_name>
+    <x>1</x>
+    <y>51</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>2</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_49</name>
+    <pv_name>ca://NUTSBW:HECIRC:AP_HE_SUP:kPa</pv_name>
+    <x>563</x>
+    <y>54</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>1</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+  <widget type="textupdate" version="2.0.0">
+    <name>Text Update_50</name>
+    <pv_name>ca://NUTSBW:HECIRC:AP_HE_RET:kPa</pv_name>
+    <x>564</x>
+    <y>274</y>
+    <width>94</width>
+    <height>26</height>
+    <font>
+      <font family="Sans" style="REGULAR" size="13.861386138613861">
+      </font>
+    </font>
+    <foreground_color>
+      <color red="0" green="0" blue="255">
+      </color>
+    </foreground_color>
+    <background_color>
+      <color red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <transparent>true</transparent>
+    <format>1</format>
+    <precision>1</precision>
+    <horizontal_alignment>1</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+    <wrap_words>false</wrap_words>
+    <actions>
+    </actions>
+    <border_color>
+      <color red="0" green="128" blue="0">
+      </color>
+    </border_color>
+  </widget>
+</display>
