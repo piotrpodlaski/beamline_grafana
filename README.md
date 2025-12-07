@@ -63,11 +63,10 @@ Already have an SVG that meets those requirements? Start at the next section and
 
 3. **Import into Grafana**  
    - Ensure the ACE SVG panel plugin is installed on your Grafana instance.  
-   - Import the generated JSON (Dashboard → New → Import) and select the proper datasource if Grafana asks for confirmation.  
+   - Create placeholder pannel and edit its JSON pasting the generated code .Remember to keep the first fields describing pannel geometry and placement intact.  
    - Verify that each mapped text element updates; tweak `helpers.js` or the SVG labels if any PV needs custom formatting.
 
 ## Tips
 
 - Keep PV names free of spaces so the label parser can reliably split `PV`, `unit`, and `precision`. Use `°C` or similar symbols directly; the JSON generator preserves UTF-8.
 - You can customize the update logic (color thresholds, alarm states, etc.) by editing `js/helpers.js` and re-running `makeGrafanaPannel.py`.
-- When a new panel is needed, duplicate the template JSON to capture plugin-level options (panel size, repeat settings) before running the generator.
